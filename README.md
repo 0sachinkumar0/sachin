@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sachinsamrat
+- 👋 Hi, I’m @sachin
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me sachinsamratrajput@gmail.com
