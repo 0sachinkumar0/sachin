@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sachin
-- 👀 I’m interested in Techonolgy
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning ML, DL, and AI
 - 📫 How to reach me sachinsamratrajput@gmail.com
 
