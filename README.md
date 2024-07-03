@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sachin
 - 👀 I’m interested in Techonolgy
-- 🌱 I’m currently learning ML, DL, AI
+- 🌱 I’m currently learning ML, DL, and AI
 - 📫 How to reach me sachinsamratrajput@gmail.com
 
 <!---
